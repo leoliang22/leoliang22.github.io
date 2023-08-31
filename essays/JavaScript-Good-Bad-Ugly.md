@@ -26,7 +26,7 @@ The fact that variable types are not fixed in JavaScript is both a good and a ba
 
 ## The Ugly
 
-One thing happened to me when I was practicing JavaScript and solving a practice problem and it rubbed me the wrong way. When I was iterating over a string and using the length method to set a stopping point at the end of a string, I ended up spelling the method wrong, something like lenght. The function that I created ran without issues, and there were no signs of issues until I saw the result. Now this could be due to the IDE I was using (I was using JSFiddle at this point), and maybe there was a good reason for it, maybe there is a method called lenght that has a specific usage, but from what I know and what I have done previously, I would hope it would have shown me an error or alerted me that what I was trying to do did not exist.
+One thing happened to me when I was practicing JavaScript and solving a practice problem that rubbed me the wrong way. When I was iterating over a string and using the length method to set a stopping point at the end of a string, I ended up spelling the method wrong, something like lenght. The function that I created ran without issues, and there were no signs of issues until I saw the result. Now this could be due to the IDE I was using (I was using JSFiddle at this point), and maybe there was a good reason for it, maybe there is a method called lenght that has a specific usage, but from what I know and what I have done previously, I would hope it would have shown me an error or alerted me that what I was trying to do did not exist.
 
 ## Conclusions
 
