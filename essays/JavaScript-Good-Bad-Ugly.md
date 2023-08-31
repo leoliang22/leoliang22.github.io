@@ -11,7 +11,7 @@ labels:
 ---
 
 
-As a programmer who previously used C, and C++, and to a much lesser extent, Python to code, my introduction to JavaScript has been mostly positive. So far, I have been learning JavaScript for about 2 weeks now. So what are my introductory thoughts on JavaScript?
+As a programmer who previously used C, C++, and to a much lesser extent, Python to code, my introduction to JavaScript has been mostly positive. So far, I have been learning JavaScript for about 2 weeks now. So what are my introductory thoughts on JavaScript?
 
 ## The Good
 
