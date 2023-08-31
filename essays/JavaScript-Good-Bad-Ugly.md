@@ -11,18 +11,18 @@ labels:
 ---
 
 
-As a programmer who previously used C, and C++, and to a much lesser extent, python to code, my introduction to JavaScript has been mostly positive. So far, I have been learning JavaScript for about 2 weeks. So what are my introductory thoughts on JavaScript?
+As a programmer who previously used C, and C++, and to a much lesser extent, Python to code, my introduction to JavaScript has been mostly positive. So far, I have been learning JavaScript for about 2 weeks now. So what are my introductory thoughts on JavaScript?
 
 ## The Good
 
-Some of my favorite things about JavaScript is the freedom and features that it provides you. JavaScript has a bunch of built in methods that are really helpful as a programmer. Some of my favorite methods are the push, pop, shift, and unshift methods. These methods allow you to easily modify data in an array, and you can set up basic data structures like queues or stacks using those methods. In C, the programming language that I used the most, you had to manually create a data structure like a queue and create your own push and pop methods.
+Some of my favorite things about JavaScript are the freedom and features that it provides you. JavaScript has a bunch of built in methods that are really helpful as a programmer. Some of my favorite methods are the push, pop, shift, and unshift methods. These methods allow you to easily modify data in an array, and you can easily set up basic data structures like queues or stacks using those methods. In C, the programming language that I used the most previously, you had to manually create a data structure like a queue and create your own push and pop methods.
 	
 Another thing that is interesting about JavaScript is the fact that the variables that you are creating for functions or returning are not fixed. The type of those variables are not fixed to anything, meaning that you could have a function that could return both an integer and a string, which is something that you could not do in C and C++. This is a powerful thing, and allows for flexibility in the way that you create and plan out your functions.
 
 
 ## The Bad
 
-The fact that variable types are not fixed in JavaScript is both a good and a bad thing. It is good in the way that it allows for a lot of flexibility in the types of variables that you are allowed to take in as inputs, and return, but it is also bad in that way. You could be passing in a character when you meant to be passing an integer and you would be none the wiser. In that way, I would say that JavaScript is more free, which could allow for more errors to be made.
+The fact that variable types are not fixed in JavaScript is both a good and a bad thing. It is good in the way that it allows for a lot of flexibility in the types of variables that you are allowed to take in as inputs, and return, but it is also bad in that way. You could be passing in a character when you meant to be passing an integer and you would be none the wiser. Maybe in the long run it does not matter that much, but it is something that I think could end up causing trouble for me. In that way, I would say that JavaScript is more free, which could allow for more errors to be made.
 
 ## The Ugly
 
