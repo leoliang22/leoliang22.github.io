@@ -11,11 +11,6 @@ labels:
 summary: "I created an alphanumeric character recognition for my teams drone for the AUVSI SUAS 2023 compeition."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 The AUVSI SUAS competition is a competition where students design an unmanned aerial system (UAS) in order to meet certain goals. For the year of 2023, the rules of the competition were simple. You had to design an unmanned aerial system which could autonomously fly to waypoints provided by the competition and scan the area for any targets. If a target was located, the target would have to be classified and categorized, and then the UAS would drop a payload to that target. The payload that was used was a water bottle, and the targets were an image of a shape with a certain color and an alphanumeric character on it. Each payload would correspond to a target, and you had to drop the corresponding payload to its target.
 
