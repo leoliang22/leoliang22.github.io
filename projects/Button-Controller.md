@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Button-Controller.jpg
 title: "Button Controller"
 date: 2023
 published: true
