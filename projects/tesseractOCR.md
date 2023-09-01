@@ -16,3 +16,5 @@ The AUVSI SUAS competition is a competition where students design an unmanned ae
 
 For the competition, I was in charge of creating an optical character recognition (OCR) model in order properly identify what alphanumeric character was on the target. In order to do this, I used tesseract OCR, an open source OCR engine. I trained a tesseract model on several fonts and rotations of each alphanumeric character, capital A-Z, and 0-9. From there, I created scripts that could be used to evaluate the accuracy of the model. 
 
+For this project, I learned how to train a tesseract model, and collaborated with my team members to do so. Some of my team members provided the rotated fonts for me to train the model on, and others were in charge of the other detection software of the UAS. I had to work with the other detection softwares to make my functions return a proper format in order to ensure that the code would function properly, and I learned to communicate with my team members to do so.
+
