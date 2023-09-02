@@ -8,7 +8,7 @@ published: true
 labels:
   - Hardware
   - Rasberry Pi
-summary: "I wired up a button controller using a Rasberry Pi and some open source firmware for the Rasberry Pi Pico"
+summary: "I wired up a button controller using a Rasberry Pi and some open source firmware for the Rasberry Pi Pico."
 ---
 <div class="text-center p-4">
   <img width="200px" src="../img/Button-Controller.jpg" class="img-thumbnail" >
