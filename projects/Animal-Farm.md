@@ -20,4 +20,4 @@ Animal Farm was a project for EE 205 that went through several iterations. It wa
 
 This project taught me how to create a database structure that can store information about the object that you are interested in. It gave me experience in using a linked list to store data. I also learned to iterate over code, as it was a long project that went through several changes. More importantly in my mind, it gave me more experience in using classes, and using inheritance of methods for classes. 
 
-You can find the source code here: (https://github.com/leoliang22/ee205-Animal-Farm)
+You can find the source code [here](https://github.com/leoliang22/ee205-Animal-Farm).
