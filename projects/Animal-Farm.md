@@ -13,7 +13,7 @@ summary: "This was a project for EE 205. I created a database for animals that y
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Animal-Farm-Full.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/Animal-Farm-Full.jpg" class="img-thumbnail" >
 </div>
 
 Animal Farm was a project for EE 205 that went through several iterations. It was used to hold data regarding different animals, starting off with a cat. We would then have to keep track of the different atributes of the cat, like the name and color of the cat. The project first started out in C, with us storing the data in an array. We then upgraded that database, and started using structs to hold the data. We then created a singly linked list and linked the cats together as objects. After that, we converted it to C++, and then created classes for the cats, as well as two more generic classes, mammals and animals. 

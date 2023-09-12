@@ -11,8 +11,8 @@ labels:
 summary: "I wired up a button controller using a Rasberry Pi and some open source firmware for the Rasberry Pi Pico."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/Button-Controller.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/Button-Controller2.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/Button-Controller.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/Button-Controller2.jpg" class="img-thumbnail" >
 </div>
 
 Button controllers have become a popular way to enjoy playing games such as fighting games. Companies like HitBox have inspired many other companies to start create similar controllers. Now the market is filled with several of these button controllers. Even companies like Razer have created a button controller. I play some games where using an all button controller would make sense, so I decided to try make one for myself.
