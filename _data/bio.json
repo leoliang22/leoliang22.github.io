@@ -53,6 +53,29 @@
       ]
     },
   ],
+    "volunteer": [
+    {
+      "organization": "HKN",
+      "website": "",
+      "position": "Member",
+      "startDate": "2023-09-06",
+      "endDate": "Present",
+      "summary": "Member of HKN, the Honor Society for Electrical Engineers",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "UH Drone Team",
+      "website": "me.hawaii.edu/design/uhdt/",
+      "position": "Image Processing Member",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Member of the UH Drone Team image processing team which competes in the SUAS competition",
+      "highlights": [
+        "Created an alphanumeric recognition model in order to read the characters on a target"
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "Mānoa Academic Merit Scholarship",
