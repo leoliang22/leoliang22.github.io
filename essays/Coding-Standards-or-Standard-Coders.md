@@ -16,7 +16,7 @@ The idea behind coding standards makes sense to me. You want to make sure that c
 
 A coding standard is a standard in the way in which you write code. It tells you the proper way to format the code in ways such as the number of spaces that you are expected to use, and the spacing between brackets and characters. It tells you when you should use a new line. In this way, you will create a program that is easily read. When two people would be to write the same code using the same functions, then their code should look exactly the same.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Standard-Code.png"> <br /> <br /> <br /> <br /> <br />
+<img width="400px" class="rounded float-start pe-4" src="../img/Standard-Code.png"> <br /> <br /> <br /> <br /> <br /> <br />
 
 *An example of code following a coding standard*
 
