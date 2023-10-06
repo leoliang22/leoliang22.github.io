@@ -14,7 +14,7 @@ I've never had much experience in creating websites. Recently I started learning
 
 <img src="../img/Basic-Website.png" height="700">
 
-*An example of a basic website I created using just HTML and CSS*
+*An example of a basic webpage I created using just HTML and CSS*
 
 
 ## Bootstrap 5
@@ -23,7 +23,7 @@ Bootstrap 5 is a UI framework that was mostly intended for use in mobile devices
 
 <img height="700px" src="../img/Bootstrap-Example.png">
 
-*A Wikipedia Mockup I created using Bootstrap 5*
+*A Wikipedia mockup I created using Bootstrap 5*
 
 ## My thoughts on Boostrap 5
 
