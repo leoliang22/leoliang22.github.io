@@ -10,7 +10,7 @@ labels:
 ---
 
 
-I've never had much experience in creating websites. Recently I started learning a little HTML and CSS in order to create some basic websites. Very basic websites, in fact. Most just text formatted on a webpage.
+I've never had much experience in creating websites. Recently I started learning a little HTML and CSS in order to create some basic websites. Very basic websites, in fact. Mostly just text formatted on a webpage with some images and hyperlinks to different areas of the page, or to separate pages. Eventually from there, I went on to try Bootstrap 5.
 
 <img src="../img/Basic-Website.png" height="700">
 
