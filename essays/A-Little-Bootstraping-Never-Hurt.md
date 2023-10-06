@@ -21,7 +21,7 @@ I've never had much experience in creating websites. Recently I started learning
 
 Bootstrap 5 is a UI framework that was mostly intended for use in mobile devices. It adds features that make it easier to format a webpage. Some of the features include adding a navbar, which makes it easy to add buttons at the top of the screen to navigate pages, and a grid system, which makes it easier to create a webpage with many rows and columns. This makes it easier to create a website has locations where you can put buttons that the website may need, or places to put text, while still looking appealing.
 
-<img height="700px" class="rounded float-start pe-4" src="../img/Bootstrap-Example.png">
+<img height="700px" src="../img/Bootstrap-Example.png">
 
 *A Wikipedia Mockup I created using Bootstrap 5*
 
