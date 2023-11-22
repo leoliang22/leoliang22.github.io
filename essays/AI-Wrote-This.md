@@ -10,7 +10,7 @@ labels:
   - Software Engineering
   - Artificial Intelligence
 ---
-<img src="../img/terms_a_artificial-intelligence-ai_asp-FINAL.jpg" height="200">
+<img src="../img/terms_a_artificial-intelligence-ai_asp-FINAL.jpg" height="200" class="float-start pe-4">>
 
 
 ## Introduction
