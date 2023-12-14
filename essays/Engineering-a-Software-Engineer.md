@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-
+<img src="../img/software-engineer.jpeg">
 
 To become a software engineer, you must figure out what makes a software engineer. *According to Michigan Tech, “Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.”* From there, we can break down the jobs of a software engineer into 4 parts, design, development, testing, and then maintenance. For me to become a proper software engineer then, I must be at least somewhat proficient in each of these fields. 
 
