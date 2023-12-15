@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Leo Liang",
+    "label": "Student",
+    "picture": "https://github.com/leoliang22.png",
+    "email": "leoliang@hawaii.edu",
+    "phone": "N/A",
+    "website": "https://leoliang22.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "leoliang22", "url": "http://github.com/leoliang22" },
+      { "network": "linkedin", "username": "leo-liang-396715221", "url": "http://linkedin.com/in/leo-liang-396715221/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Computer Engineering" },
+    { "name": "Video Games" },
+    { "name": "Robotics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Basic Javascript", "Basic Assembly", "Basic Python", "Meteor", "React", "Bootstrap-5"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-16",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Management and Industrial Relations Department",
+      "position": "Department Assistant II",
+      "website": "",
+      "startDate": "2021-07-02",
+      "endDate": "Present",
+      "summary": "Student Assistant for the Management and Industrial Relations Department",
+      "highlights": [
+        "Helped around the office. Organized paperwork, answered emails, mail and phone calls, sent out notices, and assisted the management and industrial relations department at UH Manoa."
+      ]
+    },
+  ],
+    "volunteer": [
+    {
+      "organization": "HKN",
+      "website": "",
+      "position": "Member",
+      "startDate": "2023-09-06",
+      "endDate": "Present",
+      "summary": "Member of HKN, the Honor Society for Electrical Engineers",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "UH Drone Team",
+      "website": "me.hawaii.edu/design/uhdt/",
+      "position": "Image Processing Member",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Member of the UH Drone Team image processing team which competes in the SUAS competition",
+      "highlights": [
+        "Created an alphanumeric recognition model in order to read the characters on a target"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to for undergraduate study for having a 3.8 GPA upon time of application to UH Mānoa."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Awarded to students who ended the semester with a 3.5 GPA or higher."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
